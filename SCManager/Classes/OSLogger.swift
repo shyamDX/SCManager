@@ -6,3 +6,12 @@
 //
 
 import Foundation
+
+
+public class OSLogger {
+    
+    public func PrintLogs(){
+        print("PrintLogs Function Call")
+    }
+    
+}
