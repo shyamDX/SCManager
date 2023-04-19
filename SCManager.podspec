@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'SCManager'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of SCManager.'
+  s.summary          = 'This pod for demo and only use for testing purpuss. This pod created by Shyam Changela from DXFactor Ahmedabad.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/Shyam Changela/SCManager'
+  s.homepage         = 'https://github.com/shyamDX/SCManager'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Shyam Changela' => 'shyam@dxfactor.com' }
-  s.source           = { :git => 'https://github.com/Shyam Changela/SCManager.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/shyamDX/SCManager.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '10.0'
