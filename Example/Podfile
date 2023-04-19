@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'SCManager_Example' do
+  pod 'SCManager', :path => '../'
+
+  target 'SCManager_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
